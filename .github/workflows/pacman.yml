@@ -5,11 +5,17 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 ESSENCIAL (resolve o erro 128)
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4   # 🔥 necessário
+
       - name: Generate Pacman graph
         uses: Platane/snk@v3
         with:
