@@ -13,29 +13,27 @@ Buscando oportunidades para crescer na área de tecnologia.
 ---
 
 ## 🛠️ Linguagens e ferramentas
-![C](https://img.shields.io/badge/-C-000?&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" alt="SQL"/>
+</p>
 
 ---
 
 ## 📂 Projetos em destaque
-- 🔹 Projeto 1 – descrição breve  
-- 🔹 Projeto 2 – descrição breve  
-- 🔹 Projeto 3 – descrição breve  
-
----
-
-## 📈 Estatísticas
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+- 🔹 Jogo da Velha em C 
+- 🔹 Forca implementado em C
 
 ---
 
 ## 📫 Contato
-- LinkedIn: (coloca aqui depois)
-- Email: (opcional)
+- LinkedIn: (Gabriel Figueiredo)
+- Email: (gaf13022007@gmail.com)
 
 <!--
 **Figueiredo0101/Figueiredo0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
