@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="50" />
   <img src="https://skillicons.dev/icons?i=html" height="50" />
   <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://www.azureicons.com/static/images/icons/Databases/png/SQL-Server.png" alt="SQL Server" height="50"/>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 
 - Estudante de Engenharia de Sistemas (UFMG)
 - Interesse em Análise de Dados
-- Atualmente estudando: C++, Estruturas de Dados
+- Atualmente estudando: C++, Estruturas de Dados, Linguagem M, Dax
 - Buscando oportunidade de estágio na área de tecnologia
 
 ---
