@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Contato
+## Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-figueiredo13/" target="_blank">
@@ -33,19 +33,19 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de Engenharia de Sistemas (UFMG)
-- 💻 Interesse em Análise de Dados
-- 📚 Atualmente estudando: C++, Estruturas de Dados
-- 🚀 Buscando oportunidade de estágio na área de tecnologia
+- Estudante de Engenharia de Sistemas (UFMG)
+- Interesse em Análise de Dados
+- Atualmente estudando: C++, Estruturas de Dados
+- Buscando oportunidade de estágio na área de tecnologia
 
 ---
 
 ## 🕹️ Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Figueiredo0101/Figueiredo0101/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Figueiredo0101/Figueiredo0101/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Figueiredo0101/Figueiredo0101/output/pacman-contribution-graph.svg">
 </picture>
